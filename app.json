@@ -1,0 +1,11 @@
+{
+  "obsidianCss": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "attachments",
+  "fileSortOrder": "byCreatedTime",
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "autoPairBrackets": false,
+  "useMarkdownLinks": false,
+  "emacsyKeys": true
+}

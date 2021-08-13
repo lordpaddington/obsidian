@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "PROJECT LIST",
+      "path": "PROJECT LIST.md"
+    },
+    {
+      "type": "file",
+      "title": "Working Memory",
+      "path": "Working Memory.md"
+    }
+  ]
+}
