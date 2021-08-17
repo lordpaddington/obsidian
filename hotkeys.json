@@ -98,6 +98,12 @@
         "Ctrl"
       ],
       "key": "Enter"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
     }
   ],
   "editor:toggle-checklist-status": [
@@ -150,6 +156,29 @@
         "Shift"
       ],
       "key": "D"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
     }
   ]
 }

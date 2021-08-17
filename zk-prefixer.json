@@ -1,1 +1,5 @@
-{"format":"YYMMDDHHMMss"}
+{
+  "format": "YYYY-MM-DD -",
+  "folder": "minutes",
+  "template": "templates/minute_template"
+}

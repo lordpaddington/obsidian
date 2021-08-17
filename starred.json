@@ -9,6 +9,11 @@
       "type": "file",
       "title": "Working Memory",
       "path": "Working Memory.md"
+    },
+    {
+      "type": "file",
+      "title": "AGENDA",
+      "path": "AGENDA.md"
     }
   ]
 }
