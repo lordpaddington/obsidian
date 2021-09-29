@@ -3,9 +3,12 @@
   "promptDelete": false,
   "attachmentFolderPath": "attachments",
   "fileSortOrder": "byCreatedTime",
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
-  "autoPairBrackets": false,
+  "autoPairBrackets": true,
   "useMarkdownLinks": false,
-  "emacsyKeys": true
+  "emacsyKeys": true,
+  "vimMode": false,
+  "strictLineBreaks": false,
+  "communityPluginSortOrder": "download"
 }

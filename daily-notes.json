@@ -1,3 +1,4 @@
 {
-  "folder": "logs"
+  "folder": "",
+  "template": "templates/daily_note"
 }

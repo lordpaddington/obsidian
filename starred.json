@@ -14,6 +14,16 @@
       "type": "file",
       "title": "AGENDA",
       "path": "AGENDA.md"
+    },
+    {
+      "type": "file",
+      "title": "2021-08-16 - SO talk with Nils",
+      "path": "2021-08-16 - SO talk with Nils.md"
+    },
+    {
+      "type": "file",
+      "title": "Project Board",
+      "path": "Project Board.md"
     }
   ]
 }
