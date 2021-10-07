@@ -113,6 +113,13 @@
         "Shift"
       ],
       "key": "T"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
     }
   ],
   "editor:toggle-bullet-list": [
@@ -245,5 +252,6 @@
       ],
       "key": "T"
     }
-  ]
+  ],
+  "table-editor-obsidian:table-control-bar": []
 }

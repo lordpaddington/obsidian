@@ -3,7 +3,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "attachments",
   "fileSortOrder": "byCreatedTime",
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "autoPairBrackets": true,
   "useMarkdownLinks": false,

@@ -8,7 +8,7 @@
     {
       "type": "file",
       "title": "Working Memory",
-      "path": "Working Memory.md"
+      "path": "projects/Working Memory.md"
     },
     {
       "type": "file",
@@ -18,12 +18,17 @@
     {
       "type": "file",
       "title": "2021-08-16 - SO talk with Nils",
-      "path": "2021-08-16 - SO talk with Nils.md"
+      "path": "minutes/2021-08-16 - SO talk with Nils.md"
     },
     {
       "type": "file",
       "title": "Project Board",
       "path": "Project Board.md"
+    },
+    {
+      "type": "file",
+      "title": "Logbook",
+      "path": "Logbook.md"
     }
   ]
 }
