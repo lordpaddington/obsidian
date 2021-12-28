@@ -176,12 +176,6 @@
     },
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    },
-    {
-      "modifiers": [
         "Ctrl"
       ],
       "key": "P"
@@ -193,6 +187,12 @@
         "Mod"
       ],
       "key": "O"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ],
   "editor:follow-link": [
