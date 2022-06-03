@@ -2,13 +2,16 @@
   "obsidianCss": true,
   "promptDelete": false,
   "attachmentFolderPath": "attachments",
-  "fileSortOrder": "byCreatedTime",
-  "defaultViewMode": "preview",
+  "fileSortOrder": "byModifiedTime",
+  "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
   "autoPairBrackets": true,
   "useMarkdownLinks": false,
   "emacsyKeys": true,
   "vimMode": false,
   "strictLineBreaks": false,
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "legacyEditor": false,
+  "showIndentGuide": false,
+  "tabSize": 6
 }

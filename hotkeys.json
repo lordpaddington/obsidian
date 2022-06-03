@@ -112,13 +112,6 @@
         "Mod",
         "Shift"
       ],
-      "key": "T"
-    },
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
       "key": "K"
     }
   ],
@@ -187,12 +180,6 @@
         "Mod"
       ],
       "key": "O"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
     }
   ],
   "editor:follow-link": [
