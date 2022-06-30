@@ -1,0 +1,261 @@
+{
+  "workspaces": {
+    "Channel Strategy Cleanup": {
+      "main": {
+        "id": "198940070cc63de4",
+        "type": "split",
+        "children": [
+          {
+            "id": "a51c1faf9e07ba50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Channel Strategy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9da21b4549db5c3",
+            "type": "split",
+            "children": [
+              {
+                "id": "e92f428b1d353d85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Channel Strategy Workshop.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f36594ff89afd672",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Support Channel Strategy.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "aef2a5f59cbdca9d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Support Funnel Workshop Notes.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "75c6a6b1ce295058",
+            "type": "split",
+            "children": [
+              {
+                "id": "1a00623cdd57b423",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Channel Strategy Narrative.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "074840145aaa439d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Channel Strategy - Notes from the background material.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "df10cf321caf7362",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Meeting on Channel Strategy.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0ebd2fe7219ad09a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MS - OPS Onsite about the Support Funnel.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "384d686932d4d5a9",
+        "type": "split",
+        "children": [
+          {
+            "id": "763d6fdbf4984c74",
+            "type": "tabs",
+            "dimension": 39.416846652267814,
+            "children": [
+              {
+                "id": "dbbecb38359c316a",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "b7c9ab943d10c939",
+            "type": "tabs",
+            "dimension": 60.58315334773218,
+            "children": [
+              {
+                "id": "c98a4e286bce2edd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a959838f32a78237",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "\"resolution rate\"",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a0d70889180e47f9",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 264,
+        "collapsed": true
+      },
+      "right": {
+        "id": "b58e8ba3d93346a7",
+        "type": "split",
+        "children": [
+          {
+            "id": "e54fb7e5f0a0fa04",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "995fe234dd7cb160",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Support Channel Strategy.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f2f0ded97a7935a7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Support Channel Strategy.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "cd320bee6005e5d4",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "fbd3cf660792bc77",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Support Channel Strategy.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "f36594ff89afd672"
+    }
+  },
+  "active": "Channel Strategy Cleanup"
+}

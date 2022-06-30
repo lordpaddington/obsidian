@@ -1,4 +1,5 @@
 {
   "globalFilter": "",
-  "removeGlobalFilter": true
+  "removeGlobalFilter": true,
+  "setDoneDate": false
 }

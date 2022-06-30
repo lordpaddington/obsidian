@@ -98,21 +98,6 @@
         "Ctrl"
       ],
       "key": "Enter"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "K"
     }
   ],
   "editor:toggle-bullet-list": [
@@ -169,7 +154,7 @@
     },
     {
       "modifiers": [
-        "Ctrl"
+        "Mod"
       ],
       "key": "P"
     }
@@ -180,12 +165,24 @@
         "Mod"
       ],
       "key": "O"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
     }
   ],
   "editor:follow-link": [
     {
       "modifiers": [
         "Alt",
+        "Mod"
+      ],
+      "key": "Enter"
+    },
+    {
+      "modifiers": [
         "Mod"
       ],
       "key": "Enter"
@@ -232,7 +229,8 @@
       "key": "H"
     }
   ],
-  "obsidian-tasks-plugin:edit-task": [
+  "table-editor-obsidian:table-control-bar": [],
+  "editor:toggle-checklist-status": [
     {
       "modifiers": [
         "Mod"
@@ -240,5 +238,42 @@
       "key": "T"
     }
   ],
-  "table-editor-obsidian:table-control-bar": []
+  "quickadd:choice:c7f03231-a68a-4c88-b47c-a8d0d44f3dc1": [],
+  "daily-notes": [],
+  "editor:insert-link": [],
+  "workspace:copy-url": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
+  ],
+  "quickadd:choice:c8335010-04d1-415b-8224-73bd67ada959": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": " "
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
 }

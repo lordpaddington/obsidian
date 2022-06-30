@@ -1,7 +1,7 @@
 {
   "obsidianCss": true,
   "promptDelete": false,
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "assets",
   "fileSortOrder": "byModifiedTime",
   "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
@@ -13,5 +13,5 @@
   "communityPluginSortOrder": "download",
   "legacyEditor": false,
   "showIndentGuide": false,
-  "tabSize": 6
+  "tabSize": 4
 }

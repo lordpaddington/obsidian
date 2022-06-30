@@ -5,5 +5,6 @@
     "custom"
   ],
   "baseFontSize": 18,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "textFontFamily": ""
 }

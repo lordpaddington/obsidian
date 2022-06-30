@@ -27,8 +27,13 @@
     },
     {
       "type": "file",
-      "title": "Logbook",
-      "path": "Logbook.md"
+      "title": "Home",
+      "path": "Home.md"
+    },
+    {
+      "type": "file",
+      "title": "Tasks",
+      "path": "Tasks.md"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "outputDirectory": "",
+  "templateFilename": "{{title}}",
+  "inputFieldList": "title",
+  "textReplacementTemplate": "[[{{title}}]]",
+  "templateDirectory": "templates",
+  "replaceSelection": "sometimes",
+  "createOpen": "open-pane",
+  "inputSplit": "",
+  "config": "[]"
+}
