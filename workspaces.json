@@ -6,17 +6,37 @@
         "type": "split",
         "children": [
           {
-            "id": "a51c1faf9e07ba50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Channel Strategy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "1e221417c7c85839",
+            "type": "split",
+            "children": [
+              {
+                "id": "a51c1faf9e07ba50",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Channel Strategy.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5734ec4c177b71ab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Support Funnel.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "direction": "horizontal"
           },
           {
             "id": "a9da21b4549db5c3",
@@ -203,7 +223,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Support Channel Strategy.md",
+                    "file": "Support Funnel.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -220,7 +240,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Support Channel Strategy.md",
+                    "file": "Support Funnel.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -243,7 +263,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Support Channel Strategy.md"
+                    "file": "Support Funnel.md"
                   }
                 }
               }
@@ -254,7 +274,7 @@
         "width": 300,
         "collapsed": true
       },
-      "active": "f36594ff89afd672"
+      "active": "5734ec4c177b71ab"
     }
   },
   "active": "Channel Strategy Cleanup"

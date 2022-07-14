@@ -10,8 +10,8 @@
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
-        "createWithTemplate": true,
-        "template": "daily_note"
+        "createWithTemplate": false,
+        "template": "templates/daily_note"
       },
       "format": {
         "enabled": true,
