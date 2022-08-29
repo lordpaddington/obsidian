@@ -220,13 +220,6 @@
         "Mod"
       ],
       "key": "1"
-    },
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "H"
     }
   ],
   "table-editor-obsidian:table-control-bar": [],
@@ -267,15 +260,6 @@
       "key": "T"
     }
   ],
-  "periodic-notes:open-daily-note": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
   "app:delete-file": [
     {
       "modifiers": [
@@ -298,6 +282,23 @@
         "Mod"
       ],
       "key": "3"
+    }
+  ],
+  "obsidian-hotkeys-for-specific-files:Project Kanban.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
     }
   ]
 }
